@@ -1,0 +1,7 @@
+numpy
+scikit-learn
+tensorflow
+tensorflow_model_optimization
+matplotlib
+pyyaml
+pandas
