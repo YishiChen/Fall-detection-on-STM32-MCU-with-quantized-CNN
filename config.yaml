@@ -6,11 +6,11 @@ num_window_not_fall_data: 15    # number of windows labeled as not fall
 # mac liuxin
 data_path_mac: "." 
 # win liuxin
-data_path_win: "G:/MLonMCU/Kfall_dataset" 
+data_path_win: "." 
 # linux liyinrong
 data_path_linux: "/home/liyinrong/Projects/MLonMCU/Final/Fall_Detection/datasets/KFall" 
 use_saved_data: True
-load_from_checkpoint: True
+load_from_checkpoint: False
 acc_max: 4 # acc clamp
 gyro_max: 500 # gyro clamp
 # Hyperparameters

@@ -1,7 +1,8 @@
 numpy
 scikit-learn
-tensorflow
+tensorflow==2.13
 tensorflow_model_optimization
 matplotlib
 pyyaml
 pandas
+openpyxl
